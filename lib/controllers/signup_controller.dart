@@ -1,0 +1,11 @@
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+class SignupController extends GetxController{
+  final Visibility =true.obs;
+
+  final userInCtl=TextEditingController();
+  final passInCtl=TextEditingController();
+  final emailInCtl=TextEditingController();
+
+}
