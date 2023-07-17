@@ -9,7 +9,7 @@ To get started with the project, follow these steps:
 
 ### Installation
 1. Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/Instagram-App.git
+git clone https://github.com/m4sh-wacker/instagram-app.git
 
 2. Open the project folder in your preferred IDE (Android Studio or Visual Studio Code).
 
